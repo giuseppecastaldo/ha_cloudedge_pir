@@ -1,3 +1,4 @@
+[![Generic badge](https://img.shields.io/badge/Release-v1.0-blue.svg)](https://shields.io/)
 [![](https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square)](https://github.com/custom-components/hacs)
 
 ## Overview

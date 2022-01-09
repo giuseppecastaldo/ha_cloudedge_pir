@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square)](https://github.com/custom-components/hacs)
 
 ## Overview
-CloudEdge PIR is a custom integration for receive motion alarm notification from **CloudEdge** app<br/>
+CloudEdge PIR is an Home Assistant custom integration for receive motion alarm notification from **CloudEdge** app<br/>
 Tested on:
 * ieGeek ZS-GX5 camera with pir motion detection
 

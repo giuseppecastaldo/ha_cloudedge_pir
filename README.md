@@ -22,7 +22,7 @@ It should look similar to this:
 |       |-- const.py
 |       |-- etc...
 ```
-**(1)** Restart Home Assistant and follow our configuration flow.
+**(2)** Restart Home Assistant and follow our configuration flow.
 
 | Field           | Description                                                                     | Required  |
 | ----------------| ------------------------------------------------------------------------------- | --------- |

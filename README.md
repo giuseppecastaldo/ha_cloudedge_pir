@@ -1,5 +1,10 @@
 [![Generic badge](https://img.shields.io/badge/Release-v1.0-blue.svg)](https://shields.io/)
 [![](https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square)](https://github.com/custom-components/hacs)
+---
+
+<p align="center">
+  <img width=250 src="https://github.com/giuseppecastaldo/ha_cloudedge_pir/blob/main/assets/logo.png?raw=true" />
+</p>
 
 ## Overview
 CloudEdge PIR is an Home Assistant custom integration for receive motion alarm notification from **CloudEdge** app<br/>

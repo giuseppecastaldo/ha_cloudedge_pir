@@ -1,0 +1,5 @@
+{
+  "name": "CloudEdge PIR Integration",
+  "domains": ["binary_sensor"],
+  "homeassistant": "0.115.0"
+}

@@ -3,5 +3,5 @@
   "domains": ["binary_sensor"],
   "homeassistant": "0.115.0",
   "zip_release": true,
-  "filename": "ha_cloudedge_pir-1.1.zip"
+  "filename": "ha_cloudedge_pir.zip"
 }

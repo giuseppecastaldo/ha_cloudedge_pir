@@ -1,3 +1,0 @@
-[submodule "custom_components/cloudedge_pir"]
-	path = custom_components/cloudedge_pir
-	url = https://github.com/giuseppecastaldo/cloudedge_pir.git

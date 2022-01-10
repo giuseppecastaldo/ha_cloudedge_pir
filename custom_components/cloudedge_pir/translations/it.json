@@ -1,0 +1,24 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "Questo device è gia stato configurato."
+    },
+    "error": {
+      "invalid_auth": "Username/password non validi",
+      "unknown": "Errore inaspettato."
+    },
+    "step": {
+      "description": "Inserisci le credenziali dell'app CloudEdge.",
+      "user": {
+        "data": {
+          "email": "E-mail",
+          "password": "Password",
+          "phone_code": "Codice telefono",
+          "country_code": "Codice nazione",
+          "name": "Nome device",
+          "wait_to_reset": "Tempo per resettare lo stato del device (in secondi)."
+        }
+      }
+    }
+  }
+}

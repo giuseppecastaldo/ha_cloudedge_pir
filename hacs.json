@@ -1,7 +1,6 @@
 {
   "name": "CloudEdge PIR Integration",
+  "render_readme": true,
   "domains": ["binary_sensor"],
-  "homeassistant": "0.115.0",
-  "filename": "ha_cloudedge_pir",
-  "render_readme": true
+  "homeassistant": "0.115.0"
 }

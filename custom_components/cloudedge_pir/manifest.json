@@ -1,0 +1,13 @@
+{
+  "domain": "cloudedge_pir",
+  "name": "CloudEdge PIR Integration",
+  "config_flow": true,
+  "version": "1.0",
+  "documentation": "https://www.home-assistant.io/integrations/cloudedge_pir",
+  "requirements": ["paho-mqtt==1.6.1", "pyDes==2.0.1"],
+  "dependencies": [],
+  "codeowners": [
+    "@giuseppecastaldo"
+  ],
+  "iot_class": "cloud_push"
+}
